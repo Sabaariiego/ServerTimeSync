@@ -1,6 +1,6 @@
 <# :
 @echo off
-title Configurador de Zona Horaria Pro (DEBUG) - Offline
+title Configurador de Zona Horaria - Offline
 setlocal EnableDelayedExpansion
 
 net session >nul 2>&1
